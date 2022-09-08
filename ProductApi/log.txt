@@ -1,0 +1,6 @@
+Information: 08.09.2022 10:44:56 - Application started. Press Ctrl+C to shut down.
+Information: 08.09.2022 10:44:56 - Hosting environment: Development
+Information: 08.09.2022 10:44:56 - Content root path: C:\Users\Kamal\source\repos\ProductApi\ProductApi
+Information: 08.09.2022 10:45:09 - successful
+Warning: 08.09.2022 10:45:10 - No type was specified for the decimal property 'Price' on entity type 'Product'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'.
+Information: 08.09.2022 10:45:23 - successful
